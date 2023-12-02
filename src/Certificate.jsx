@@ -27,7 +27,7 @@ const Certificate=[
         id:"2",
         Imgsrc : image2,
         Title: "Martian Intern - Persistent Systems",
-        Url:"https://drive.google.com/file/d/1L26PehQqJZDQDkYXmQDST_YdYXFqtrtH/view?usp=sharing"
+        Url:"https://drive.google.com/file/d/1myNEn1V5N-9LENo3jxc6yBtIlPWSf3LH/view?usp=sharing"
     },
     {
         id:"3",
@@ -51,7 +51,7 @@ const Certificate=[
         id:"6",
         Imgsrc : image6,
         Title: "ReImagine Challenge",
-        Url:"https://drive.google.com/file/d/1L26PehQqJZDQDkYXmQDST_YdYXFqtrtH/view?usp=sharing"
+        Url:"https://drive.google.com/file/d/1gXIu7QsMVoUuIVlFppULwsnaWxdUFVqm/view?usp=sharing"
     },
     {
         id:"7",
