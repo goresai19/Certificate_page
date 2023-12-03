@@ -1,4 +1,4 @@
-## Simple_Netflix_Clone
+
 A one application for getting all the certificates using the Reactjs.
 
 ## Images
